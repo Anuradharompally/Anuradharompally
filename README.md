@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/anuradha)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anuradha/?hl=en)
 
-### Glad to see you here! &nbsp; ![]
+### Glad to see you here! &nbsp; 
 
  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and I'm currently into Full Stack Web Development(MERN)🕸️. I’ve built applications from the ground-up using React,Node,Express,MongoDB 🤓.
  
