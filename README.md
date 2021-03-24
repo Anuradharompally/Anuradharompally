@@ -12,10 +12,10 @@
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc..
 - 🚀 &nbsp; I’m currently working on Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harishkoninti).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Anuradharompally).
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/harish-k-40a078199/)! I am happy to help.
-- 📫 &nbsp; How to reach me: koninti9@gmail.com
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/anuradha-rompally-1837a8177/)! I am happy to help.
+- 📫 &nbsp; How to reach me: anuradharompally@gmail.com
 
 
 <br />
@@ -73,7 +73,7 @@
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04 LTS</li>
-	    <li><b>Laptop: </b> HP </li>
+	    <li><b>Laptop: </b> Dell </li>
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
