@@ -15,7 +15,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Anuradharompally).
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/anuradha-rompally-1837a8177/)! I am happy to help.
-- 📫 &nbsp; How to reach me: anuradharompally@gmail.com
+- 📫 &nbsp; How to reach me: rompallyanuradha@gmail.com
 
 
 <br />
