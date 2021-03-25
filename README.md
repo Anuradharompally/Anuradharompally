@@ -10,7 +10,7 @@
  
  ## I'm a Full Stack Developer!!
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc..
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc..
 - 🚀 &nbsp; I’m currently working on Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Anuradharompally).
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -45,8 +45,8 @@
 
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuradharompally&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradharompally&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anuradharompally&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradharompally&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuradharompally&" alt="anuradharompally" /></p>
 
 
